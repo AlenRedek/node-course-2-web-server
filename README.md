@@ -1,6 +1,6 @@
-# node-course-2-web-server
+# node--web-server
 Just a simple example of running Node.js server
 
-This code was developed for educational purposes only during online course on Udemy (https://www.udemy.com/the-complete-nodejs-developer-course-2), chapter 5.
+This code was developed for educational purposes only during Udemy online course, chapter 5 (https://www.udemy.com/the-complete-nodejs-developer-course-2).
 
-The web page was intentionally deployed on Heroku as well for educational purposes, as mentioned above.
+The web page was deployed on Heroku as well (https://gentle-temple-62402.herokuapp.com).
