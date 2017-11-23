@@ -1,4 +1,4 @@
-# node-web-server
+# Node.js Hello World web server
 Just a simple example of running Node.js server
 
 The web page was deployed to Heroku as well (https://gentle-temple-62402.herokuapp.com).
