@@ -7,9 +7,9 @@ The web page was deployed on Heroku as well (https://gentle-temple-62402.herokua
 
 USAGE:
 <ul>
-<li>git clone https://github.com/AlenRedek/node-web-server.git</li>
-<li>cd node-web-server</li>
-<li>npm install</li>
-<li>npm start</li>
+<li>$ git clone https://github.com/AlenRedek/node-web-server.git</li>
+<li>$ cd node-web-server</li>
+<li>$ npm install</li>
+<li>$ npm start</li>
 <li>Open up your browser and navigate to localhost:3319</li>
 </ul>
