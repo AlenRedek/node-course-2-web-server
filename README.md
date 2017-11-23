@@ -5,6 +5,7 @@ This code was developed for educational purposes only during Udemy online course
 
 The web page was deployed on Heroku as well (https://gentle-temple-62402.herokuapp.com).
 
+USAGE:
 <ul>
 <li>git clone https://github.com/AlenRedek/node-web-server.git</li>
 <li>cd node-web-server</li>
